@@ -1,3 +1,3 @@
 # Asobola-Donor
 My personal portfolio. Asobola Donor Israel (Dev Israel)
-Preview:https://israeltek.github.io/Asobola-Donor/
+Preview:https://Asoboladonor.github.io/Asobola-Donor/
